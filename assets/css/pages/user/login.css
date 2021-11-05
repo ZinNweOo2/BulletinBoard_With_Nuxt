@@ -1,0 +1,17 @@
+.login-page {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.chk {
+    margin-left: 135px;
+    padding-right: 50px;
+}
+
+.pwd {
+    display: flex;
+}
+
+.input-invalid-message {
+    color: red;
+}
